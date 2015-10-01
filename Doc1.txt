@@ -1,0 +1,7 @@
+Experience in Java is a must. 
+Knowledge of Spring, Struts, Hibernate etc.
+ Should be good with algorithms, data structures.
+ Should have working knowledge of GIT. 
+Should have worked in an agile environment. 
+Communication skills should be great.
+
